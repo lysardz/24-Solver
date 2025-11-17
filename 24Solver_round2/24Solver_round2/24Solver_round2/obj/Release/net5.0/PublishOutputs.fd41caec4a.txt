@@ -1,0 +1,5 @@
+E:\QCF Internship\Febuary\Release\24Solver_round2.exe
+E:\QCF Internship\Febuary\Release\24Solver_round2.dll
+E:\QCF Internship\Febuary\Release\24Solver_round2.deps.json
+E:\QCF Internship\Febuary\Release\24Solver_round2.runtimeconfig.json
+E:\QCF Internship\Febuary\Release\24Solver_round2.pdb

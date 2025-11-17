@@ -1,0 +1,64 @@
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.exe
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.deps.json
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.json
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.dev.json
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.dll
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\ref\24Solver_round2.dll
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.pdb
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.AssemblyReference.cache
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfoInputs.cache
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfo.cs
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.CoreCompileInputs.cache
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.dll
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\ref\24Solver_round2.dll
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.pdb
+C:\Projects\QCF Design\Records\People\Alyssa Coetzee\Internship\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.genruntimeconfig.cache
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.exe
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.deps.json
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.json
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.dev.json
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.AssemblyReference.cache
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.GeneratedMSBuildEditorConfig.editorconfig
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfoInputs.cache
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfo.cs
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.CoreCompileInputs.cache
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\refint\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.genruntimeconfig.cache
+E:\QCF Internship\Febuary\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\ref\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.exe
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.deps.json
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.json
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.dev.json
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.AssemblyReference.cache
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.GeneratedMSBuildEditorConfig.editorconfig
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfoInputs.cache
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfo.cs
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.CoreCompileInputs.cache
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\refint\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.genruntimeconfig.cache
+E:\QCF Internship\Febuary\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\ref\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.exe
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.deps.json
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.json
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.runtimeconfig.dev.json
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\bin\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.AssemblyReference.cache
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.GeneratedMSBuildEditorConfig.editorconfig
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfoInputs.cache
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.AssemblyInfo.cs
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.csproj.CoreCompileInputs.cache
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\refint\24Solver_round2.dll
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.pdb
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\24Solver_round2.genruntimeconfig.cache
+E:\QCF Internship\Febuary\24Solver_final3\24Solver_final2\24Solver_round2\24Solver_round2\24Solver_round2\obj\Debug\net5.0\ref\24Solver_round2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4A6e8Pn43hlmWDO3Z7py+CEJvsVWx6a9GZdigzpeqoql56ymstrujiPjolGyXAH0CNFnc4qgaMT+Ug+IWOCn/g==",
+  "success": true,
+  "projectFilePath": "E:\\QCF Internship\\Febuary\\24Solver_final3\\24Solver_final2\\24Solver_round2\\24Solver_round2\\24Solver_round2\\24Solver_round2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
